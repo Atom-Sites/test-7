@@ -1,0 +1,22 @@
+{
+    "AI_INSTRUCTIONS": "The USP should have exactly three features."
+    "headerText": "The header for the USP section",
+    "uspDescription": "A description of the USP section, about 4 or 5 sentences",
+    "features": [
+        {
+        "name": "The name of the first feature",
+        "description": "A 3-4 sentence description of the first feature",
+        "href" : "A link to additional information. If no link is available, leave as '#'"
+        },
+        {
+        "name": "The name of the second feature",
+        "description": "A 3-4 sentence description of the second feature",
+        "href" : "A link to additional information. If no link is available, leave as '#'"
+        },
+        {
+        "name": "The name of the third feature",
+        "description": "A 3-4 sentence description of the third feature",
+        "href" : "A link to additional information. If no link is available, leave as '#'"
+        }
+    ]
+}

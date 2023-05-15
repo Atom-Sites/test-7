@@ -1,0 +1,23 @@
+{
+    "AI_INSTRUCTIONS": "Fill out the following information. Only create socials and services that exist, you can change the number of socials and services in the code.",
+    "logoImage": "Image url of company logo",
+    "logoImageAlt": "Text for company logo",
+    "address" : "Company Address",
+    "phone" : "Company Phone Number",
+    "email" : "Company Email",
+    "socials": [
+        {"name": "Social 1", "href": "#"},
+        {"name": "Social 2", "href": "#"},
+        {"name": "Social 3", "href": "#"}
+    ],
+    "services": [
+        {"name": "Service 1", "href": "#"},
+        {"name": "Service 2", "href": "#"},
+        {"name": "Service 3", "href": "#"}
+    ],
+    "review_href": "Internal link to a testimonials or reviews section",
+    "services_href": "Internal link to a services section",
+    "contact_href": "Internal link to a contact section or an external link to a contact page or email",
+    "anchor": "Don't change provided anchor"
+}
+

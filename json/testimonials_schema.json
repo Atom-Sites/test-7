@@ -1,0 +1,17 @@
+{
+    "AI_INSTRUCTIONS": "Use available information to create 2-6 testimonials in the testimonials array. Use the provided icon for all authors",
+    "headerText": "Either Testimonials or Reviews",
+    "headerSubText": "A short description of the section goes here. Should talk about what people are saying about the company.",
+    "testimonials": [
+        {
+        "body": "The body for the first testimonial goes here. It should be a short paragraph about what the person is saying about the company.",
+        "author": {
+            "name": "Name of the first person",
+            "source": "Source of the review. For example, Google, Facebook, etc.",
+            "icon": "https://cdn-teams-slug.flaticon.com/google.jpg"
+            }
+        }
+    ],
+    "anchor": "Don't change provided anchor"
+}
+

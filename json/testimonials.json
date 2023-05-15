@@ -1,0 +1,16 @@
+{
+    "headerText": "Testimonials",
+    "headerSubText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod?",
+    "testimonials": [
+        {
+            "body": "Laborum quis quam. Dolorum et ut quod quia. Voluptas numquam delectus nihil. Aut enim doloremque et ipsam.",
+            "author": {
+                "name": "Leslie Alexander",
+                "source": "google",
+                "icon": "https://cdn-teams-slug.flaticon.com/google.jpg"
+            }
+        }
+    ],
+    "anchor": "reviews"
+}
+

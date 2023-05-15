@@ -1,0 +1,22 @@
+{
+    "logoImage": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+    "logoImageAlt": "Google Logo",
+    "address" : "1600 Amphitheatre Parkway, Mountain View, CA 94043, USA",
+    "phone" : "(650) 253-0000",
+    "email" : "test@example.com",
+    "socials": [
+        {"name": "Facebook", "href": "#"},
+        {"name": "Twitter", "href": "#"},
+        {"name": "Instagram", "href": "#"}
+    ],
+    "services": [
+        {"name": "service 1", "href": "#"},
+        {"name": "service 2", "href": "#"},
+        {"name": "service 3", "href": "#"}
+    ],
+    "review_href": "#",
+    "services_href": "#",
+    "contact_href": "#",
+    "anchor": "contact"
+}
+

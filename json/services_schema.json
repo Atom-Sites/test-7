@@ -1,0 +1,27 @@
+{
+    "AI_INSTRUCTIONS": "Make up to four services in the services array based on the provided schema.",
+	"services": [
+        {
+			"serviceBlurb": "A short blurb about what the service is. Should be catchy and short.",
+			"serviceSlug": "A slightly longer description of the service, but no more than 1 sentence.",
+			"serviceText": "A more thorough description of the service. 1 paragraph.",
+			"imageUrl": "A url to an image that represents the service a 1:1 aspect ratio",
+			"imageAlt": "Alt text for the image. can be left blank",
+			"features": [
+                {
+					"name": "A 1st specific feature of the service",
+					"description": "A 1 paragraph description of the service"
+				},
+				{
+					"name": "A 2nd specific feature of the service",
+					"description": "A 1 paragraph description of the service."
+				},
+				{
+					"name": "A 3rd specific feature of the service",
+					"description": "A 1 paragraph description of the service."
+				}
+			]
+		}
+	],
+    "anchor": "Don't change provided anchor"
+}

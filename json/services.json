@@ -1,0 +1,90 @@
+{
+  "services": [
+    {
+      "serviceBlurb": "service1",
+      "serviceSlug": "header",
+      "serviceText": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "imageUrl": "https://tailwindui.com/img/component-images/project-app-screenshot.png",
+      "imageAlt": "image Alt Text",
+      "features": [
+        {
+          "name": "service 1 feature 1 name",
+          "description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
+        },
+        {
+          "name": "service 1 feature 2 name",
+          "description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
+        },
+        {
+          "name": "service 1 feature 3 name",
+          "description": "ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. et magna sit morbi lobortis."
+        }
+      ]
+    },
+    {
+      "serviceBlurb": "service2",
+      "serviceSlug": "header",
+      "serviceText": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "imageUrl": "https://tailwindui.com/img/component-images/project-app-screenshot.png",
+      "imageAlt": "image Alt Text",
+      "features": [
+        {
+          "name": "service 2 feature 1 name",
+          "description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
+
+        },
+        {
+          "name": "service 2 feature 2 name",
+          "description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
+        },
+        {
+          "name": "service 2 feature 3 name",
+          "description": "ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. et magna sit morbi lobortis."
+        }
+      ]
+    },
+    {
+      "serviceBlurb": "service3",
+      "serviceSlug": "header",
+      "serviceText": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "imageUrl": "https://tailwindui.com/img/component-images/project-app-screenshot.png",
+      "imageAlt": "image Alt Text",
+      "features": [
+        {
+          "name": "service 3 feature 1 name",
+          "description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
+        },
+        {
+          "name": "service 3 feature 2 name",
+          "description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
+        },
+        {
+          "name": "service 3 feature 3 name",
+          "description": "ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. et magna sit morbi lobortis."
+        }
+      ]
+    },
+    {
+      "serviceBlurb": "service4",
+      "serviceSlug": "header",
+      "serviceText": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "imageUrl": "https://tailwindui.com/img/component-images/project-app-screenshot.png",
+      "imageAlt": "image Alt Text",
+      "features": [
+        {
+          "name": "service 4 feature 1 name",
+          "description": "lorem ipsum, dolor sit amet consectetur adipisicing elit. maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione."
+        },
+        {
+          "name": "service 4 feature 2 name",
+          "description": "anim aute id magna aliqua ad ad non deserunt sunt. qui irure qui lorem cupidatat commodo."
+        },
+        {
+          "name": "service 4 feature 3 name",
+          "description": "ac tincidunt sapien vehicula erat auctor pellentes"
+        }
+      ]
+    }
+  ],
+  "anchor": "services"
+}

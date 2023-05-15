@@ -1,0 +1,7 @@
+{
+    "headingText": "The Heading Text of the page.",
+    "descriptionText": "The description text of the hero page. Should be a 2 paragraph text.",
+    "heroImageUrl": "An url to a Hero image that will be displayed on the page with a 1:1 aspect ratio",
+    "heroImageAlt": "The alt text for the hero image. Can be left blank.",
+    "anchor": "The internal anchor for this content."
+}

@@ -1,0 +1,21 @@
+{
+    "headerText": "Header Text",
+    "uspDescription": "Description, about 4 or 5 sentences",
+    "features": [
+        {
+        "name": "feature1",
+        "description": "feature1 description, about 4 or 5 sentences",
+        "href" : "#"
+        },
+        {
+        "name": "feature2",
+        "description": "feature2 description, about 4 or 5 sentences",
+        "href" : "#"
+        },
+        {
+        "name": "feature3",
+        "description": "feature3 description, about 4 or 5 sentences",
+        "href" : "#"
+        }
+    ]
+}

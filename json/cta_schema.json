@@ -1,0 +1,8 @@
+{
+    "title": "A short title that serves as a call to action",
+    "callToAction": "Expand on the title and give more information about the call to action. Should be 1-2 sentences.",
+    "image": "An image url to a picture that will be displayed on the call to action page with a 5:4 aspect ratio",
+    "buttonText": "A short call to action that will be displayed on the button.",
+    "anchor": "Don't change provided anchor"
+}    
+
